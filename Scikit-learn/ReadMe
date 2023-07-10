@@ -1,0 +1,8 @@
+ReadMe on Scikit-learn
+
+How to -
+1. Create a python env
+2. Activate this environment using ./env/Scripts/activate
+3. pip install the following to the environment:
+        matplotlib
+4. run files in environment!
